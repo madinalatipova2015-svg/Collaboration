@@ -2,7 +2,7 @@
 
 # Assalomu alaykum, men Madina 👋
 
-### Web-dasturlash va robototexnika bo'yicha o'quvchiman | Robbit Academy
+### Junior Web Developer | Robbit Academy'da web-dasturlash va robototexnika o'quvchisi
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Ko'rish-informational?style=for-the-badge&logo=netlify&logoColor=white&color=00C7B7)](https://website-about-mee.netlify.app/)
 
@@ -13,7 +13,7 @@
 ### 🙋‍♀️ Men haqimda
 
 - 🎓 Robbit Academy'da **web-dasturlash va robototexnika** yo'nalishida ta'lim olyapman
-- 💻 Frontend loyihalar yaratishni, kod orqali g'oyalarni jonlantirishni yoqtiraman
+- 💻 **Junior Web Developer** sifatida frontend loyihalar yaratishni o'rganyapman
 - 🎨 Dizayn bilan ham shug'ullanaman — Figma va Canva'da UI/UX makonlar tayyorlayman
 - 🎧 Bo'sh vaqtimda K-pop tinglayman va yangi narsalarni o'rganishni yaxshi ko'raman
 - 📫 Loyihalarim va rivojlanishim bilan shu yerda bo'lishaman
